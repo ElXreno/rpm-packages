@@ -1,0 +1,27 @@
+[submodule "epel8"]
+	path = epel8
+	url = git@github.com:ElXreno/epel8-packages.git
+[submodule "fedora/cockpit"]
+	path = fedora/cockpit
+	url = git@github.com:ElXreno/cockpit.git
+[submodule "fedora/golang-packages"]
+	path = fedora/golang-packages
+	url = git@github.com:ElXreno/golang-packages.git
+[submodule "fedora/libinput-gestures"]
+	path = fedora/libinput-gestures
+	url = git@github.com:ElXreno/libinput-gestures.git
+[submodule "fedora/multimc"]
+	path = fedora/multimc
+	url = git@github.com:ElXreno/multimc.git
+[submodule "fedora/obs-ndi"]
+	path = fedora/obs-ndi
+	url = git@github.com:ElXreno/obs-ndi.git
+[submodule "fedora/syncthing"]
+	path = fedora/syncthing
+	url = git@github.com:ElXreno/syncthing.git
+[submodule "fedora/veloren"]
+	path = fedora/veloren
+	url = git@github.com:ElXreno/veloren.git
+[submodule "fedora/zsync"]
+	path = fedora/zsync
+	url = git@github.com:ElXreno/zsync.git
