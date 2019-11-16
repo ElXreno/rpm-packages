@@ -25,3 +25,6 @@
 [submodule "fedora/zsync"]
 	path = fedora/zsync
 	url = git@github.com:ElXreno/zsync.git
+[submodule "fedora/python-streamlink"]
+	path = fedora/python-streamlink
+	url = git@github.com:ElXreno/python-streamlink.git
