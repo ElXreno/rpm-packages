@@ -31,3 +31,6 @@
 [submodule "fedora/zram"]
 	path = fedora/zram
 	url = https://github.com/ElXreno/zram.git
+[submodule "fedora/ddnet"]
+	path = fedora/ddnet
+	url = https://github.com/ElXreno/ddnet.git
