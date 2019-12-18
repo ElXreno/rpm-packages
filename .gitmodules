@@ -28,3 +28,6 @@
 [submodule "fedora/python-streamlink"]
 	path = fedora/python-streamlink
 	url = git@github.com:ElXreno/python-streamlink.git
+[submodule "fedora/zram"]
+	path = fedora/zram
+	url = https://github.com/ElXreno/zram.git
