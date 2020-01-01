@@ -34,3 +34,6 @@
 [submodule "fedora/ddnet"]
 	path = fedora/ddnet
 	url = https://github.com/ElXreno/ddnet.git
+[submodule "fedora-review"]
+	path = fedora-review
+	url = git@github.com:ElXreno/fedora-review.git
