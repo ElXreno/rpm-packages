@@ -37,3 +37,6 @@
 [submodule "fedora-review"]
 	path = fedora-review
 	url = git@github.com:ElXreno/fedora-review.git
+[submodule "fedora/jetbrains-mono-fonts"]
+	path = fedora/jetbrains-mono-fonts
+	url = git@github.com:ElXreno/jetbrains-mono-fonts.git
