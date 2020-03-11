@@ -40,3 +40,6 @@
 [submodule "fedora/jetbrains-mono-fonts"]
 	path = fedora/jetbrains-mono-fonts
 	url = git@github.com:ElXreno/jetbrains-mono-fonts.git
+[submodule "fedora/fonts-rpm-macros"]
+	path = fedora/fonts-rpm-macros
+	url = https://src.fedoraproject.org/rpms/fonts-rpm-macros.git
