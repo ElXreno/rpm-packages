@@ -43,3 +43,6 @@
 [submodule "fedora/jetbrains-mono-fonts"]
 	path = fedora/jetbrains-mono-fonts
 	url = git@github.com:ElXreno/jetbrains-mono-fonts.git
+[submodule "fedora/rust-packages"]
+	path = fedora/rust-packages
+	url = git@github.com:ElXreno/rust-packages.git
